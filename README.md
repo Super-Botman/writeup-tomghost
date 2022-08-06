@@ -42,11 +42,7 @@ Getting resource at ajp13://10.10.228.43:8009/asdf
 
 ## 22 : ssh
 
-login using creds `ssh skyfuck@$IP` and get the creds:
-```
-
-```
-the it's the `privesc` parts :
+login using creds `ssh skyfuck@$IP` then it's the `privesc` parts :
 
 ### privesc:
 
